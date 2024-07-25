@@ -16,7 +16,7 @@ This project provides a REST API to serve a list of Pokémon using FastAPI and P
 
 1. Clone the repository:
    ```sh
-   git clone <repository_url>
+   git clone <https://github.com/SujishMaharjan/pokemon-api.git>
    cd pokemon_api
 
 
